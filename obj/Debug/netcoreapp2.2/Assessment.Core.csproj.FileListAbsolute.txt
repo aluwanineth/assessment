@@ -1,0 +1,8 @@
+D:\RelTrans - Assessments\Assessment.Core\bin\Debug\netcoreapp2.2\Assessment.Core.deps.json
+D:\RelTrans - Assessments\Assessment.Core\bin\Debug\netcoreapp2.2\Assessment.Core.dll
+D:\RelTrans - Assessments\Assessment.Core\bin\Debug\netcoreapp2.2\Assessment.Core.pdb
+D:\RelTrans - Assessments\Assessment.Core\obj\Debug\netcoreapp2.2\Assessment.Core.csprojAssemblyReference.cache
+D:\RelTrans - Assessments\Assessment.Core\obj\Debug\netcoreapp2.2\Assessment.Core.AssemblyInfoInputs.cache
+D:\RelTrans - Assessments\Assessment.Core\obj\Debug\netcoreapp2.2\Assessment.Core.AssemblyInfo.cs
+D:\RelTrans - Assessments\Assessment.Core\obj\Debug\netcoreapp2.2\Assessment.Core.dll
+D:\RelTrans - Assessments\Assessment.Core\obj\Debug\netcoreapp2.2\Assessment.Core.pdb
